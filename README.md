@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I180
 ### Team Details
-#### **Team Name** <<DRAGON BALL Z>> <br/>
+#### **Team Name** << DRAGON BALL Z >> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | HOSTEL/DAYSCHOLAR  |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:------------------:|
