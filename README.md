@@ -4,10 +4,9 @@
 ### Team Details
 #### **Team Name** <<Insert Your Team Name>> <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | HOSTEL/DAYSCHOLAR  |
+|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:------------------:|
+|   Team Leader   | BALAJI V                | CB.EN.U4AEE25007       |MALE             |      AEE                        | KSB ANNEX          |
+|    Member 2     | S NITHIN                | CB.EN.U4AEE25041       |MALE             |      AEE                        | DAYSCHOLAR         |
+|    Member 3     | PRANAV R                | CB.EN.U4AEE25036       |MALE             |      AEE                        |KSB ANNEX           |
+|    Member 4     | MAHDHAVAN               | CB.EN.U4AEE25027       |MALE             |      AEE                        | KSB ANNEX          |
